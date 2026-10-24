@@ -22,6 +22,13 @@ The dashboard examines:
 - The percentage of calendar days marked as available
 - Differences in listing prices and availability across the Dallas market
 
+## Key Findings
+
+- One-bedroom properties dominate the market with 2,540 listings, followed by two-bedroom and three-bedroom properties.
+- Median price generally increases with bedroom count, rising from $156 for one-bedroom properties to $2,282 for sixteen-bedroom properties. Categories with many bedrooms contain relatively few listings, so their prices may be less representative.
+- Districts 6 and 13 have the highest average listing prices at over $500, while most other districts average approximately $220–$325.
+- Calendar availability declines from about 77% in January to its lowest point of approximately 58% in July, before recovering to nearly 79% in December.
+
 ## Data Sources
 
 The data was obtained from [Inside Airbnb](https://insideairbnb.com/get-the-data/) and includes:
